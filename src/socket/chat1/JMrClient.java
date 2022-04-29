@@ -123,7 +123,7 @@ public class JMrClient extends JPanel implements Runnable {
     }
 
     public static void main(String [] argv) {
-        JFrame frame = new JFrame("");
+        JFrame frame = new JFrame("Chat");
         frame.getContentPane().add(new JMrClient());
         frame.setSize(400,200);
         frame.setVisible(true);
