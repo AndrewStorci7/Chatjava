@@ -34,6 +34,6 @@ Inoltre, qui implementiamo i protocolli.
 # Interfaccia _Command_, classe _DefaultMrChatProtocol_
 (è quella che preferisco)<br>
 Qui abbiamo creato un **nostro** protocollo, ovvero, abbiamo stabilito delle regole per collegarsi, scrivere un messaggio, uscire dalla chat, vedere l'orario e vedere la lista degli utenti collegati (i comandi sono scritti ad inizio documento).<br>
-# classi Main e JMrClient
+# Classi Main e JMrClient
 Infine abbiamo le due classi che fanno avviare il server (Main) e l'interfaccia grafica del client (JMrClient).<br>
 
