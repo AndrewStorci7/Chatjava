@@ -53,7 +53,7 @@ public class DefaultMrChatProtocol extends ChatProtocol {
     }
 
     public void startMessage(ThreadChannel ch) {
-        ch.send("Benvenuto nella MrChat" +
+        ch.send("Benvenuto nella Chat" +
                 "\nQuesti sono i comandi:" +
                 "\n/user <nome> per connetersi" +
                 "\n/msg <messaggio> per messaggiare" +
